@@ -3,6 +3,7 @@
 
 **Foto**:
 <img src=gato.jpg width="300px">
+
 Edad :2 años
 ### Aficiones
 
